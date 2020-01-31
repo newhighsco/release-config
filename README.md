@@ -18,3 +18,5 @@ New High Score semantic-release rules come bundled in `@newhighsco/release-confi
   "extends": "@newhighsco/release-config"
 }
 ```
+
+## [CHANGELOG](CHANGELOG.md)

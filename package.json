@@ -13,7 +13,7 @@
     "url": "https://github.com/newhighsco/release-config/issues"
   },
   "engines": {
-    "node": "^13.2.0",
+    "node": "^13.7.0",
     "yarn": "^1.19.1"
   },
   "main": "release.config.js",

@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/newhighsco/release-config/compare/v1.0.12...v1.0.13) (2020-02-24)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo ([#10](https://github.com/newhighsco/release-config/issues/10)) ([bbb4d1d](https://github.com/newhighsco/release-config/commit/bbb4d1d34a2b9a0fba1bd4b8c14c6a65df17caca))
+
 ## [1.0.12](https://github.com/newhighsco/release-config/compare/v1.0.11...v1.0.12) (2020-02-04)
 
 

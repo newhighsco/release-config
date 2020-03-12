@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/newhighsco/release-config/compare/v1.0.13...v1.0.14) (2020-03-12)
+
+
+### Bug Fixes
+
+* **deps:** remove unused dependencies ([fe39f76](https://github.com/newhighsco/release-config/commit/fe39f768bc0eed7de804214c145b4b06d33acb2c))
+
 ## [1.0.13](https://github.com/newhighsco/release-config/compare/v1.0.12...v1.0.13) (2020-02-24)
 
 

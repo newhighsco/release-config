@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/newhighsco/release-config/compare/v1.0.15...v1.0.16) (2020-03-13)
+
+
+### Bug Fixes
+
+* **deps:** adds missing peerDependency ([1e026f6](https://github.com/newhighsco/release-config/commit/1e026f6bcac99fbd315e221df9e4b4febbdce896))
+
 ## [1.0.15](https://github.com/newhighsco/release-config/compare/v1.0.14...v1.0.15) (2020-03-13)
 
 

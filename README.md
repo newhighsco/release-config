@@ -7,7 +7,7 @@ New High Score [shareable config](https://semantic-release.gitbook.io/semantic-r
 Install semantic-relase and `@newhighsco/release-config`:
 
 ```
-npm install --save-dev semantic-release @newhighsco/release-config
+npm install --save-dev @newhighsco/release-config
 ```
 
 ## Usage

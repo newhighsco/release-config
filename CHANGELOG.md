@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/newhighsco/release-config/compare/v1.0.18...v1.0.19) (2020-03-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/changelog to v5.0.1 ([42f0105](https://github.com/newhighsco/release-config/commit/42f01059147eaa0b1a286079f3779a26705950dd))
+
 ## [1.0.18](https://github.com/newhighsco/release-config/compare/v1.0.17...v1.0.18) (2020-03-19)
 
 

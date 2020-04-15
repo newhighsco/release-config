@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/newhighsco/release-config/compare/v1.0.19...v1.0.20) (2020-04-15)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([5b9c849](https://github.com/newhighsco/release-config/commit/5b9c849c90b5948d2b262b12751f630c341f8ff0))
+
 ## [1.0.19](https://github.com/newhighsco/release-config/compare/v1.0.18...v1.0.19) (2020-03-27)
 
 

@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/newhighsco/release-config/compare/v1.0.20...v1.0.21) (2020-04-29)
+
+
+### Bug Fixes
+
+* **deps:** updates semantic-release ([49f0566](https://github.com/newhighsco/release-config/commit/49f0566b35b96664cd85e841f2a20b256a239de1))
+
 ## [1.0.20](https://github.com/newhighsco/release-config/compare/v1.0.19...v1.0.20) (2020-04-15)
 
 

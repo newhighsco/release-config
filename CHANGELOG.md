@@ -1,3 +1,11 @@
+## [1.0.31](https://github.com/newhighsco/release-config/compare/v1.0.30...v1.0.31) (2020-09-30)
+
+
+### Bug Fixes
+
+* **deps:** attempts to clear security alerts ([cc8ff4b](https://github.com/newhighsco/release-config/commit/cc8ff4bd9f945e6ed43b170d62abd45408ce1fb9))
+* **deps:** uses correct CircleCI node version ([fd5f133](https://github.com/newhighsco/release-config/commit/fd5f133c27f5c86041713359d7a837825e4fca8b))
+
 ## [1.0.30](https://github.com/newhighsco/release-config/compare/v1.0.29...v1.0.30) (2020-09-17)
 
 

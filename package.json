@@ -60,11 +60,17 @@
   },
   "prettier": "@newhighsco/prettier-config",
   "release": {
-    "extends": "./release.config.js"
+    "extends": "./release.config.js",
+    "branches": [
+      "main"
+    ]
   },
   "renovate": {
     "extends": [
       "@newhighsco"
+    ],
+    "baseBranches": [
+      "main"
     ],
     "packageRules": [
       {

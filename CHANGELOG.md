@@ -1,3 +1,10 @@
+## [1.0.36](https://github.com/newhighsco/release-config/compare/v1.0.35...v1.0.36) (2020-11-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency semantic-release to v17.2.3 ([5b00acb](https://github.com/newhighsco/release-config/commit/5b00acbc0d0657b325754de88aaa15d7e617fa10))
+
 ## [1.0.35](https://github.com/newhighsco/release-config/compare/v1.0.34...v1.0.35) (2020-11-14)
 
 

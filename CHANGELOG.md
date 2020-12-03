@@ -1,3 +1,10 @@
+## [1.0.41](https://github.com/newhighsco/release-config/compare/v1.0.40...v1.0.41) (2020-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/npm to v7.0.9 ([99046c6](https://github.com/newhighsco/release-config/commit/99046c67171213d61c42f0cb74c20b88447a8b25))
+
 ## [1.0.40](https://github.com/newhighsco/release-config/compare/v1.0.39...v1.0.40) (2020-11-22)
 
 

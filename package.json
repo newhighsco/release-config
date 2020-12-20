@@ -13,6 +13,7 @@
     "url": "https://github.com/newhighsco/release-config/issues"
   },
   "main": "release.config.js",
+  "files": [],
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",

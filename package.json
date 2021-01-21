@@ -1,7 +1,7 @@
 {
   "name": "@newhighsco/release-config",
   "description": "New High Score shareable config for semantic-release",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "author": "New High Score <hello@newhighsco.re>",
   "license": "ISC",
   "repository": {

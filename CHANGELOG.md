@@ -1,3 +1,10 @@
+## [1.0.59](https://github.com/newhighsco/release-config/compare/v1.0.58...v1.0.59) (2021-05-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/github to v7.2.3 ([#258](https://github.com/newhighsco/release-config/issues/258)) ([7325250](https://github.com/newhighsco/release-config/commit/73252508b777a04166314d165b8f51bf1549a297))
+
 ## [1.0.58](https://github.com/newhighsco/release-config/compare/v1.0.57...v1.0.58) (2021-05-04)
 
 

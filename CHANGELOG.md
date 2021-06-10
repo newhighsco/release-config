@@ -1,3 +1,10 @@
+## [1.0.61](https://github.com/newhighsco/release-config/compare/v1.0.60...v1.0.61) (2021-06-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v9.0.3 ([#287](https://github.com/newhighsco/release-config/issues/287)) ([38df6ca](https://github.com/newhighsco/release-config/commit/38df6ca9c4af95b6fe5dec7abe3345136c5a80ff))
+
 ## [1.0.60](https://github.com/newhighsco/release-config/compare/v1.0.59...v1.0.60) (2021-05-12)
 
 

@@ -1,3 +1,10 @@
+## [1.0.62](https://github.com/newhighsco/release-config/compare/v1.0.61...v1.0.62) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** ran yarn upgrade v1.22.10 ([bc9588a](https://github.com/newhighsco/release-config/commit/bc9588a529b37778fcb1d2b49c09d585a3d9cc8e))
+
 ## [1.0.61](https://github.com/newhighsco/release-config/compare/v1.0.60...v1.0.61) (2021-06-10)
 
 
